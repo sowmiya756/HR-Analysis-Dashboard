@@ -11,3 +11,5 @@ An interactive Power BI dashboard that visualizes HR headcount data, showing emp
 4.Headcount Trend Over Time
 
 5.Business Unit-wise Distribution
+
+-Dashboard interaction <a href="https://github.com/sowmiya756/HR-Analysis-Dashboard/commit/574f5f9c7bf80836b096115b2713f89fe0820e8e">View Dashboard </a>
