@@ -25,6 +25,36 @@ Built interactive visuals and filters for detailed analysis.
 
 Designed a dashboard with consistent theme and layout.
 
+ # Dashboard Features
+
+## Interactive Filters:
+
+Date Range Selector (1993–2022)
+
+Business Unit
+
+Country
+
+Job Title
+
+## Visualization Types:
+
+Line Chart: Employee Headcount Trend
+
+Donut Chart: Gender Distribution
+
+Bar Charts: Job Titles, Age, Country
+
+Tree Map: Business Unit Headcount
+
+## KPIs Displayed:
+
+Total Headcount
+
+Male vs Female Count
+
+Percentage Split
+
 ## Questions (KPI's)
 1.Total Employee Headcount
 
