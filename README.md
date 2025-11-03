@@ -3,6 +3,18 @@ An interactive Power BI dashboard that visualizes HR headcount data, showing emp
 
 -Dashboard interaction <a href="https://github.com/sowmiya756/HR-Analysis-Dashboard/commit/574f5f9c7bf80836b096115b2713f89fe0820e8e">View Dashboard </a>
 
+ ## Objectives
+
+Analyze total employee headcount and its growth over time.
+
+Understand gender distribution (Male vs. Female).
+
+Identify the age composition of employees.
+
+Visualize employee distribution across business units, countries, and job titles.
+
+Provide interactive filters (date range, business unit, job title, country) for deeper insights.
+
 ## Process
 
 Imported and cleaned HR data in Power BI using Power Query.
