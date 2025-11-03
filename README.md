@@ -65,3 +65,7 @@ Percentage Split
 4.Headcount Trend Over Time
 
 5.Business Unit-wise Distribution
+
+ ## Outcome
+
+The dashboard provides a clear picture of employee distribution and HR metrics, making it easier to track workforce growth, diversity balance, and department performance.
