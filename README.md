@@ -1,6 +1,5 @@
 # HR-Analysis-Dashboard
-An interactive Power BI dashboard that visualizes HR headcount data, showing employee distribution by gender, age, country, job title, and business unit. It helps HR teams track workforce trends and make data-driven decisions.
-To analyze employee headcount trends and workforce distribution across gender, age, country, business unit, and job title for better HR decision-making.
+An interactive Power BI dashboard that visualizes HR headcount data, showing employee distribution by gender, age, country, job title, and business unit. It helps HR teams track workforce trends and make data-driven decisions.To analyze employee headcount trends and workforce distribution across gender, age, country, business unit, and job title for better HR decision-making.
 
 -Dashboard interaction <a href="https://github.com/sowmiya756/HR-Analysis-Dashboard/commit/574f5f9c7bf80836b096115b2713f89fe0820e8e">View Dashboard </a>
 
