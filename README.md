@@ -3,7 +3,11 @@ An interactive Power BI dashboard that visualizes HR headcount data, showing emp
 
 ## Questions (KPI's)
 1.Total Employee Headcount
+
 2.Gender Split (Male vs Female)
+
 3.Headcount by Age, Country, and Job Title
+
 4.Headcount Trend Over Time
+
 5.Business Unit-wise Distribution
