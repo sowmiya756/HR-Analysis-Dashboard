@@ -13,3 +13,13 @@ An interactive Power BI dashboard that visualizes HR headcount data, showing emp
 5.Business Unit-wise Distribution
 
 -Dashboard interaction <a href="https://github.com/sowmiya756/HR-Analysis-Dashboard/commit/574f5f9c7bf80836b096115b2713f89fe0820e8e">View Dashboard </a>
+
+## Process
+
+Imported and cleaned HR data in Power BI using Power Query.
+
+Created DAX measures for KPIs (total, gender %, etc.).
+
+Built interactive visuals and filters for detailed analysis.
+
+Designed a dashboard with consistent theme and layout.
